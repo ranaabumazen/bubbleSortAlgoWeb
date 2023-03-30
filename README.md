@@ -1,4 +1,3 @@
-# bubbleSortAlgoWeb
 
 # Implement a Sorting Algorithms Visualizer using Html and Css
 
@@ -34,7 +33,7 @@ $ git clone https://github.com/ranaabumazen/bubbleSortAlgoWeb.git
 ####  Move into the repository
 $ cd bubbleSortAlgoWeb
 
-Navigate to your bubbleSort.html file and then click “Open” (or equivalent). The browser should load your web page.
+Navigate to your index.html file and then click “Open” (or equivalent). The browser should load your web page.
 
 ##  :wrench: Development
 ### :notebook: Pre-Requisites
@@ -46,7 +45,7 @@ you need to install [git](https://git-scm.com/downloads) to clone the repository
 .
 |__ AovelSansRounded-rdDL  
 ├── ProfileImg.jfif
-├── bubbleSort.html
+├── index.html
 |__ bubbleSort.css
 └── README.md
 
@@ -58,11 +57,11 @@ After cloning the repository you can made your own changes and push your own rep
 then you can deploy your site using [github pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 after save you can refresh the page then you can find your deployment link like this 
 
-![image](https://user-images.githubusercontent.com/35702411/224538803-eeec2d50-8ecd-472d-b490-8499764e7659.png)
+![image](https://user-images.githubusercontent.com/35702411/228830917-94422210-c0fd-4a14-98ab-814c658f8648.png)
 
 
 
-And this is my deployment link for this repository [Portfolio](https://ranaabumazen.github.io/Portfolio/)
+And this is my deployment link for this repository [bubble sort visualizer](https://ranaabumazen.github.io/bubbleSortAlgoWeb/)
 
 
 
