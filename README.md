@@ -43,8 +43,7 @@ you need to install [git](https://git-scm.com/downloads) to clone the repository
 
 ```
 .
-|__ AovelSansRounded-rdDL  
-├── ProfileImg.jfif
+
 ├── index.html
 |__ bubbleSort.css
 └── README.md
