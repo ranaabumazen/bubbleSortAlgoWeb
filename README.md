@@ -45,7 +45,8 @@ you need to install [git](https://git-scm.com/downloads) to clone the repository
 .
 
 ├── index.html
-|__ bubbleSort.css
+|__ bubblesort.js
+|__ bubblesort.css
 └── README.md
 
 ```
