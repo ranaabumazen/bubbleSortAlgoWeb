@@ -69,4 +69,6 @@ And this is my deployment link for this repository [bubble sort visualizer](http
 
 ![image](https://user-images.githubusercontent.com/35702411/228829502-cfa42f96-197b-48c2-bd38-0f2a37fe5b64.png)
 
+this video shows the bubble sorting 
+https://drive.google.com/file/d/1A1e9p7PGDQgCBpyzQGJ5-yCVnNnZCKnv/view?usp=share_link
 
